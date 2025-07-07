@@ -4,17 +4,16 @@
 
 ## 👋 안녕하세요 Hello!  
 <br>
-저는 프론트엔드/백엔드 모두 관심이 많은 <strong>풀스택 개발자</strong>입니다.  
-클린 코드와 사용자 경험에 집중하며 팀 협업과 지속적인 개선을 중요하게 생각합니다.  
-더 나은 개발자가 되기 위해 끊임없이 학습합니다.
+저는 프론트엔드/백엔드 모두 관심이 많은 <strong>풀스택 개발자</strong>입니다.<br>
+클린 코드와 사용자 경험에 집중하며 팀 협업과 지속적인 개선을 중요하게 생각합니다.<br>
+더 나은 개발자가 되기 위해 끊임없이 학습합니다.<br><br>
 
-📆 지금은 **결혼정보회사 웹 리뉴얼 프로젝트**를 진행 중입니다.  
-📚 현재 관심 분야: **Node.js**, **Spring**, **Nginx**, **Docker**  
+📆 지금은 **결혼정보회사 웹 리뉴얼 프로젝트**를 진행 중입니다.<br>
+📚 현재 관심 분야: **Node.js**, **Spring**, **Nginx**, **Docker**<br><br>
 
-🖥️ 기술 블로그: [https://pyomin.com](https://pyomin.com)  
+🖥️ 기술 블로그: [https://pyomin.com](https://pyomin.com)<br>
+📬 이메일: [pmini1203@gmail.com](mailto:pmini1203@gmail.com)<br><br>
 
-📬 이메일: [pmini1203@gmail.com](mailto:pmini1203@gmail.com)
-<br><br>
 <hr>
 
 ## 🛠️ Tech Stacks
