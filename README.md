@@ -11,7 +11,7 @@
 📆 지금은 **결혼정보회사 웹 리뉴얼 프로젝트**를 진행 중입니다.<br>
 📚 현재 관심 분야: **Node.js**, **Spring**, **Nginx**, **Docker**<br><br>
 
-🖥️ 기술 블로그: [https://pyomin.com](https://pyomin.com)<br>
+🖥️ 블로그: [https://pyomin.com](https://pyomin.com)<br>
 📬 이메일: [pmini1203@gmail.com](mailto:pmini1203@gmail.com)<br><br>
 
 <hr>
