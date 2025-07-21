@@ -39,8 +39,8 @@
 ## 🏅 Stats
 <br>
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=BlueCool12&count_private=true&show_icons=true&theme=holi" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlueCool12&layout=compact&theme=holi" width="43%">
+  <img src="https://github-readme-stats.vercel.app/api?username=BlueCool12&count_private=true&show_icons=true&theme=holi&cache_seconds=86400" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlueCool12&layout=compact&theme=holi&cache_seconds=86400" width="43%">
 </p>
 <br>
 
