@@ -39,7 +39,7 @@
 ## 🏅 Stats
 <br>
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=BlueCool12&count_private=true&show_icons=true&theme=holi&cache_seconds=86400" width="51%">
+  <img src="https://github-readme-stats.vercel.app/api?username=BlueCool12&count_private=true&show_icons=true&theme=holi&cache_seconds=86400" width="52.5%">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlueCool12&layout=compact&theme=holi&cache_seconds=86400" width="40%">
 </p>
 <br>
