@@ -9,7 +9,7 @@
 더 나은 개발자가 되기 위해 끊임없이 학습합니다.<br><br>
 
 📆 지금은 **결혼정보회사 웹 리뉴얼 프로젝트**를 진행 중입니다.<br>
-📚 현재 관심 분야: **Node.js**, **Spring**, **Nginx**, **Docker**<br><br>
+📚 현재 관심 분야: **NestJS**, **Spring**, **Nginx**, **Docker**<br><br>
 
 🖥️ 블로그: [https://pyomin.com](https://pyomin.com)<br>
 📬 이메일: [pmini1203@gmail.com](mailto:pmini1203@gmail.com)<br><br>
@@ -22,6 +22,7 @@
 <img src="https://img.shields.io/badge/Javascript-yellow?style=for-the-badge&logo=Javascript&logoColor=%23fff">
 <img src="https://img.shields.io/badge/typescript-%233178C6?style=for-the-badge&logo=typescript&logoColor=%23fff"><br><br>
 <img src="https://img.shields.io/badge/spring-%236DB33F?style=for-the-badge&logo=spring&logoColor=%23fff">
+<img src="https://img.shields.io/badge/nestjs-%23E0234E?style=for-the-badge&logo=nestjs&logoColor=%23fff">
 <img src="https://img.shields.io/badge/next.js-%23000000?style=for-the-badge&logo=nextdotjs&logoColor=%23fff">
 <img src="https://img.shields.io/badge/React-blue?style=for-the-badge&logo=React&logoColor=%23fff">
 <img src="https://img.shields.io/badge/thymeleaf-%23005F0F?style=for-the-badge&logo=thymeleaf&logoColor=%23fff"><br><br>
@@ -33,6 +34,7 @@
 <img src="https://img.shields.io/badge/mariadb-003545?style=for-the-badge&logo=mariadb&logoColor=%23fff"><br><br>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
+<img src="https://img.shields.io/badge/raspberry%20pi-%23C51D4A?style=for-the-badge&logo=raspberrypi&logoColor=%23fff">
 <br><br>
 <hr>
 
