@@ -30,6 +30,8 @@
 <img src="https://img.shields.io/badge/styledcomponents-%23DB7093?style=for-the-badge&logo=styledcomponents&logoColor=%23fff">
 <img src="https://img.shields.io/badge/css-%23663399?style=for-the-badge&logo=css&logoColor=%23fff">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"><br><br>
+<img src="https://img.shields.io/badge/jpa-%59666c?style=for-the-badge&logo=hibernate&logoColor=%23fff">
+<img src="https://img.shields.io/badge/typeorm-%FE0803?style=for-the-badge&logo=typeorm&logoColor=%23fff"><br><br>
 <img src="https://img.shields.io/badge/postgresql-%234169E1?style=for-the-badge&logo=postgresql&logoColor=%23fff">
 <img src="https://img.shields.io/badge/mariadb-003545?style=for-the-badge&logo=mariadb&logoColor=%23fff"><br><br>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
