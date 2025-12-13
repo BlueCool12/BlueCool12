@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=199ef0&height=180&text=BlueCool's%20Github&animation=&fontColor=ffffff&fontSize=60" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=199ef0&height=180&text=BlueCool&animation=&fontColor=ffffff&fontSize=60" />
 
 ## 👋 안녕하세요 Hello!  
 <br>
@@ -46,7 +46,7 @@
 
 <p align="center">
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=pmini12" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlueCool12&layout=compact&theme=holi&cache_seconds=86400" width="42.5%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlueCool12&layout=compact&theme=solarized-light&cache_seconds=86400" width="42.5%">
 </p>
 
 <p>  
