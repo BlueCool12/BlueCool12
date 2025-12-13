@@ -45,8 +45,8 @@
 <br>
 
 <p align="center">
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=pmini12" width="50%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlueCool12&layout=compact&theme=holi&cache_seconds=86400" width="50%">
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=pmini12" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlueCool12&layout=compact&theme=holi&cache_seconds=86400" width="48%">
 </p>
 
 <p>  
