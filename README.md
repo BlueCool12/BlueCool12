@@ -45,12 +45,14 @@
 <br>
 
 <p align="center">
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=pmini12" width="50%" />
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=pmini12" /> <!-- width="50%" -->
 </p>
 
 <p>  
+  <!--
   <img src="https://github-readme-stats.vercel.app/api?username=BlueCool12&count_private=true&show_icons=true&theme=holi&cache_seconds=86400" width="52.5%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlueCool12&layout=compact&theme=holi&cache_seconds=86400" width="40%">
+  -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlueCool12&layout=compact&theme=holi&cache_seconds=86400"> <!-- width="40%" -->
 </p>
 <br>
 
