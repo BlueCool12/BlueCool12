@@ -11,8 +11,9 @@
 📆 지금은 **구직중**에 있습니다.<br>
 📚 현재 관심 분야: **객체지향**, **DDD**, **Nest.js**, **Nginx**, **Docker**<br><br>
 
-🖥️ 블로그: [https://pyomin.com](https://pyomin.com)<br>
-📬 이메일: [pmini1203@gmail.com](mailto:pmini1203@gmail.com)<br><br>
+🖥️ 블로그: [https://pyomin.com](https://pyomin.com)<br><br>
+📝 포트폴리오: [Notion Portfolio](https://branch-grouse-fde.notion.site/Backend-Developer-2e9381b7d1078089959de45d0f34014d?source=copy_link)<br><br>
+📬 이메일: [pmini1203@gmail.com](mailto:pmini1203@gmail.com)<br><br><br>
 
 <hr>
 
