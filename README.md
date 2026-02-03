@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=199ef0&height=180&text=BlueCool&animation=&fontColor=ffffff&fontSize=60" />
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=199ef0&height=180&text=BlueCool&animation=&fontColor=ffffff&fontSize=60" /> -->
 
 ## 👋 안녕하세요 Hello!  
 <br>
