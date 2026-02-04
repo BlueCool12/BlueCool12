@@ -19,7 +19,7 @@
 
 ## 🛠️ Tech Stacks
 <br>
-<img src="https://img.shields.io/badge/Java-orange?style=for-the-badge">
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
 <img src="https://img.shields.io/badge/Javascript-yellow?style=for-the-badge&logo=Javascript&logoColor=%23fff">
 <img src="https://img.shields.io/badge/typescript-%233178C6?style=for-the-badge&logo=typescript&logoColor=%23fff"><br><br>
 <img src="https://img.shields.io/badge/spring-%236DB33F?style=for-the-badge&logo=spring&logoColor=%23fff">
