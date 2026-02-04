@@ -27,11 +27,12 @@
 <img src="https://img.shields.io/badge/next.js-%23000000?style=for-the-badge&logo=nextdotjs&logoColor=%23fff">
 <img src="https://img.shields.io/badge/React-blue?style=for-the-badge&logo=React&logoColor=%23fff">
 <img src="https://img.shields.io/badge/thymeleaf-%23005F0F?style=for-the-badge&logo=thymeleaf&logoColor=%23fff"><br><br>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
 <img src="https://img.shields.io/badge/bootstrap-%237952B3?style=for-the-badge&logo=bootstrap&logoColor=%23fff">
 <img src="https://img.shields.io/badge/styledcomponents-%23DB7093?style=for-the-badge&logo=styledcomponents&logoColor=%23fff">
-<img src="https://img.shields.io/badge/css-%23663399?style=for-the-badge&logo=css&logoColor=%23fff">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"><br><br>
+<img src="https://img.shields.io/badge/css-%23663399?style=for-the-badge&logo=css&logoColor=%23fff"><br><br>
 <img src="https://img.shields.io/badge/jpa-59666c?style=for-the-badge&logo=hibernate&logoColor=%23fff">
+<img src="https://img.shields.io/badge/TypeORM-FE0803?style=for-the-badge&logo=typeorm&logoColor=white">
 <img src="https://img.shields.io/badge/prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=%23fff"><br><br>
 <img src="https://img.shields.io/badge/postgresql-%234169E1?style=for-the-badge&logo=postgresql&logoColor=%23fff">
 <img src="https://img.shields.io/badge/mariadb-003545?style=for-the-badge&logo=mariadb&logoColor=%23fff"><br><br>
