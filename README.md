@@ -21,25 +21,31 @@
 <br>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
 <img src="https://img.shields.io/badge/Javascript-yellow?style=for-the-badge&logo=Javascript&logoColor=%23fff">
-<img src="https://img.shields.io/badge/typescript-%233178C6?style=for-the-badge&logo=typescript&logoColor=%23fff"><br><br>
+<img src="https://img.shields.io/badge/typescript-%233178C6?style=for-the-badge&logo=typescript&logoColor=%23fff">
+<img src="https://img.shields.io/badge/python-%233776AB?style=for-the-badge&logo=python&logoColor=%23fff"><br><br>
 <img src="https://img.shields.io/badge/spring-%236DB33F?style=for-the-badge&logo=spring&logoColor=%23fff">
 <img src="https://img.shields.io/badge/nestjs-%23E0234E?style=for-the-badge&logo=nestjs&logoColor=%23fff">
-<img src="https://img.shields.io/badge/next.js-%23000000?style=for-the-badge&logo=nextdotjs&logoColor=%23fff">
-<img src="https://img.shields.io/badge/React-blue?style=for-the-badge&logo=React&logoColor=%23fff">
-<img src="https://img.shields.io/badge/thymeleaf-%23005F0F?style=for-the-badge&logo=thymeleaf&logoColor=%23fff"><br><br>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
-<img src="https://img.shields.io/badge/bootstrap-%237952B3?style=for-the-badge&logo=bootstrap&logoColor=%23fff">
-<img src="https://img.shields.io/badge/styledcomponents-%23DB7093?style=for-the-badge&logo=styledcomponents&logoColor=%23fff">
-<img src="https://img.shields.io/badge/css-%23663399?style=for-the-badge&logo=css&logoColor=%23fff"><br><br>
+<img src="https://img.shields.io/badge/fastapi-%23009688?style=for-the-badge&logo=fastapi&logoColor=%23fff"><br><br>
+<img src="https://img.shields.io/badge/LangChain-%2300A67E?style=for-the-badge&logo=langchain&logoColor=%23fff">
+<img src="https://img.shields.io/badge/Google%20Gemini-%238E75B2?style=for-the-badge&logo=googlegemini&logoColor=%23fff"><br><br>
 <img src="https://img.shields.io/badge/jpa-59666c?style=for-the-badge&logo=hibernate&logoColor=%23fff">
 <img src="https://img.shields.io/badge/TypeORM-FE0803?style=for-the-badge&logo=typeorm&logoColor=white">
-<img src="https://img.shields.io/badge/prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=%23fff"><br><br>
+<img src="https://img.shields.io/badge/SQLAlchemy-%23D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=%23fff"><br><br>
 <img src="https://img.shields.io/badge/postgresql-%234169E1?style=for-the-badge&logo=postgresql&logoColor=%23fff">
-<img src="https://img.shields.io/badge/mariadb-003545?style=for-the-badge&logo=mariadb&logoColor=%23fff"><br><br>
+<img src="https://img.shields.io/badge/Qdrant-%23DC244C?style=for-the-badge&logo=qdrant&logoColor=%23fff"><br><br>
+<img src="https://img.shields.io/badge/next.js-%23000000?style=for-the-badge&logo=nextdotjs&logoColor=%23fff">
+<img src="https://img.shields.io/badge/React-blue?style=for-the-badge&logo=React&logoColor=%23fff">
+<img src="https://img.shields.io/badge/MUI-%23007FFF?style=for-the-badge&logo=mui&logoColor=%23fff">
+<img src="https://img.shields.io/badge/styledcomponents-%23DB7093?style=for-the-badge&logo=styledcomponents&logoColor=%23fff"><br><br>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
+<img src="https://img.shields.io/badge/css-%23663399?style=for-the-badge&logo=css&logoColor=%23fff">
+<img src="https://img.shields.io/badge/CSSModules-%23000000?style=for-the-badge&logo=cssmodules&logoColor=%23fff"><br><br>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
 <img src="https://img.shields.io/badge/githubactions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white">
-<img src="https://img.shields.io/badge/raspberry%20pi-%23C51D4A?style=for-the-badge&logo=raspberrypi&logoColor=%23fff">
+<img src="https://img.shields.io/badge/raspberry%20pi-%23C51D4A?style=for-the-badge&logo=raspberrypi&logoColor=%23fff"><br><br>
+<img src="https://img.shields.io/badge/Prometheus-%23E6522C?style=for-the-badge&logo=prometheus&logoColor=%23fff">
+<img src="https://img.shields.io/badge/Grafana-%23F46800?style=for-the-badge&logo=grafana&logoColor=%23fff">
 <br><br>
 <hr>
 
