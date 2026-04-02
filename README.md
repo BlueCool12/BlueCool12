@@ -8,11 +8,11 @@
 클린 코드와 사용자 경험에 집중하며 팀 협업과 지속적인 개선을 중요하게 생각합니다.<br>
 더 나은 개발자가 되기 위해 끊임없이 학습합니다.<br><br>
 
-📆 지금은 **웰메이드컴퓨터**에서 인프라 기반 서비스를 개발하고 있습니다.<br>
-📚 현재 관심 분야: **OOP**, **Kubernetes**, **Nest.js**, **NestJS**, **TimescaleDB**<br><br>
+📆 지금은 **웰메이드컴퓨터**에서 클라우드 인프라 플랫폼을 개발하고 있습니다.<br>
+📚 현재 관심 분야: **OOP**, **Kubernetes**, **NestJs**, **Next.js**, **TimescaleDB**<br><br>
 
 🖥️ 블로그: [https://pyomin.com/about](https://pyomin.com/about)<br><br>
-📝 포트폴리오: [Notion Portfolio](https://branch-grouse-fde.notion.site/Backend-Developer-2e9381b7d1078089959de45d0f34014d?source=copy_link)<br><br>
+📝 포트폴리오: [portfolio](https://branch-grouse-fde.notion.site/Backend-Developer-2e9381b7d1078089959de45d0f34014d?source=copy_link)<br><br>
 📬 이메일: [pmini1203@gmail.com](mailto:pmini1203@gmail.com)<br><br><br>
 
 <hr>
