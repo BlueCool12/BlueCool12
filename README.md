@@ -1,4 +1,4 @@
-# BlueCool 🐆
+# BlueCool
 
 Software Developer @ 웰메이드컴퓨터
 
