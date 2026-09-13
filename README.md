@@ -1,6 +1,6 @@
 # BlueCool
 
-Software Developer @ 웰메이드컴퓨터
+Software Engineer @ 웰메이드컴퓨터
 
 * 클라우드 플랫폼
 * 웹 기반 NVIDIA Omniverse 실행 플랫폼
